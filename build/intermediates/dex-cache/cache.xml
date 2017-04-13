@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\EasyARSDKSamples\Android\HelloARMultiTarget_SameImage_Native\app\src\libs\EasyAR.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ae6d25e42048bdf27be02bd95d5b4466b3216f">
+        <dex dex="E:\EasyARSDKSamples\Android\HelloARMultiTarget_SameImage_Native\app\build\intermediates\pre-dexed\arm\debug\EasyAR_a23ffd746dff81cdba24745e23f47a6f1c57395a.jar" />
+    </item>
+
+</items>
